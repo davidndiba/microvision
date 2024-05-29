@@ -1,0 +1,21 @@
+.about-microvision {
+    padding: 50px;
+  }
+  
+  .about-microvision .ant-typography {
+    color: rgba(0, 0, 0, 0.85);
+  }
+  
+  .about-microvision .ant-divider-horizontal {
+    margin: 20px 0;
+  }
+  
+  .about-microvision .ant-space {
+    width: 100%;
+  }
+  
+  .about-microvision .ant-col {
+    display: flex;
+    align-items: center;
+  }
+  
