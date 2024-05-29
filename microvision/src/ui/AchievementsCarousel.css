@@ -1,0 +1,23 @@
+.achievements-carousel {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .carousel-content {
+    color: rgba(0, 0, 0, 0.85);
+    padding: 20px;
+  }
+  
+  .carousel-item {
+    height: 300px; /* Adjust height as needed */
+  }
+  
+  .ant-statistic-title {
+    color: rgba(0, 0, 0, 0.85);
+  }
+  
+  .ant-statistic-content-value {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
